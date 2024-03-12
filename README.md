@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Advanced Woodcutting
+An Advanced Woodcutting greeter plugin
